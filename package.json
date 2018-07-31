@@ -1,0 +1,23 @@
+{
+  "name": "expresstuts",
+  "version": "1.0.0",
+  "description": "express tutorial for web bhumi batch",
+  "main": "index.js",
+  "scripts": {
+    "test": "webbhumi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankmandloi/express101.git"
+  },
+  "author": "Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankmandloi/express101/issues"
+  },
+  "homepage": "https://github.com/mayankmandloi/express101#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "bootstrap": "3"
+  }
+}
